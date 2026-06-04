@@ -14,8 +14,8 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=airflow&theme=dark" />
-  <img src="https://avatars.githubusercontent.com/u/65346727?s=200&v=4" width="48" height="48" alt="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="48" height="48" alt="dbt"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/>
@@ -26,10 +26,12 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deekshithrd7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="38" height="38" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/deekshithrd7/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="35" height="35" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:deekshithreddy.patlolla@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" height="38" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" height="35" alt="Gmail"/>
   </a>
 </p>
+
