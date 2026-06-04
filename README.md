@@ -15,7 +15,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="48" height="48" alt="dbt"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="48" height="48" alt="dbt"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/>
