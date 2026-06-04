@@ -7,21 +7,21 @@
 📊 Passionate about turning raw data into clear business insights  
 🚀 Building a Freight Risk Intelligence platform using real-time data from German Autobahn API  to help logistics teams anticipate disruptions, assess corridor risks, and make proactive transportation decisions.
 
----
+## 🧰 Languages and Tools
 
-## 🧰 Tech Stack
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="45" height="45" alt="Apache Airflow"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="45" height="45" alt="dbt"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="45" height="45" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="45" height="45" alt="Tableau"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="45" height="45" alt="Excel"/>
+</p>
 
 ## 📫 Connect With Me
 
