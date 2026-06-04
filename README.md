@@ -10,16 +10,17 @@
 ## 💼 Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="45" height="45" alt="Apache Airflow"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="45" height="45" alt="dbt"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" height="45" alt="Power BI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,python,git,docker&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48" height="48" alt="Apache Airflow"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="48" height="48" alt="dbt"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau"/>
 </p>
 
 ## 📫 Connect With Me
