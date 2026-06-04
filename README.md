@@ -10,20 +10,26 @@
 ## 💼 Languages and Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,python,git,docker&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,python,git,docker&theme=dark" />
 </p>
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=airflow&theme=dark" />
+  <img src="https://avatars.githubusercontent.com/u/65346727?s=200&v=4" width="48" height="48" alt="dbt"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="48" height="48" alt="Apache Airflow"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="48" height="48" alt="dbt"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/>
 </p>
+
+---
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/deekshithrd7/)  
-[Email](mailto:deekshithreddy.patlolla@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/deekshithrd7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="38" height="38" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:deekshithreddy.patlolla@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38" height="38" alt="Gmail"/>
+  </a>
+</p>
