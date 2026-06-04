@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Deekshith Reddy
+# 👋 Hi, I'm Sai
 
 🎯 Data Analytics Engineer | SQL | ELT | Business Intelligence  
 📍 Based in Berlin, Germany  
