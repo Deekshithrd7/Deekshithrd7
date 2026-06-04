@@ -15,7 +15,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow"/>
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" width="48" height="48" alt="dbt"/>
+  <img src="https://dl.svgcdn.com/png/logos/dbt-icon-800.png" width="48" height="48" alt="dbt" style="border-radius:10px;"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau"/>
