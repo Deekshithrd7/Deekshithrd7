@@ -2,7 +2,7 @@
 
 🎯 Data Analytics Engineer | SQL | ELT | Business Intelligence  
 📍 Based in Berlin, Germany  
-🏅 <img src="https://img.icons8.com/color/24/power-bi.png" width="20"/>
+🏅 <img src="https://img.icons8.com/color/24/power-bi.png" width="20"/> Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
 🎓 M.Sc. Data Analytics & Business Intelligence  
 📊 Passionate about turning raw data into clear business insights  
