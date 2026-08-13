@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sai
 
-🎯 Data Analyst | SQL | Python | Power BI | Data Warehousing
-
+🎯 Data Analyst | SQL | Python | Power BI 
 📍 Based in Berlin, Germany  
 🏅 <img src="https://img.icons8.com/color/24/power-bi.png" width="20"/> Microsoft Certified: Power BI Data Analyst Associate (PL-300)<br>
 🎓 M.Sc. Data Analytics & Business Intelligence  
